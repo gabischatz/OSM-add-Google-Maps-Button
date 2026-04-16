@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.3
 // @description  Fügt einen Google-Maps-Link zu OSM-Suchergebnissen und dem Kartenmenü hinzu
-// @author       ChatGPT
+// @author       Lutz Müller (gabischatz)
 // @match        https://www.openstreetmap.org/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=openstreetmap.org
 // @grant        none
